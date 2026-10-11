@@ -44,4 +44,4 @@ for example: ```
 
 
 vii. How do you pass data from a parent component to a child component, and how does a child send something back to the parent?
--We can pass the data from a parent to child component by using props. React is uni-direcional. So, only can parent pass the data to child, but a child component can't send something to the parent.
+- We can pass the data from a parent to child component by using props. React is uni-direcional. So, only can parent pass the data to child, but a child component can't send something to the parent.
