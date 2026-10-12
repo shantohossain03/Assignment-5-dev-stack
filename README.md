@@ -37,9 +37,9 @@ vi. What is conditional rendering? Show one place you used it.
 - Conditional rendering means showing different UI elements based on a condition.
 for example: ```
 {tasks.length === 0 ? (
-  &lt;p&gt;The stack is empty!&lt;/p&gt;
+  The stack is empty!
 ) : (
-  &lt;TaskList data={tasks} /&gt;
+  TaskList data={tasks};
 )} ```
 
 
